@@ -10,25 +10,25 @@ This repository contains the CAD models of the Go-Kart chassis and its connectin
 
 The main frame rod is one of the basic parts used to build the chassis. It has screw and hole connections built into the same part, so multiple rods can be joined together without needing separate connectors for every joint.
 
-[Main Frame Rod](https://cdn.hackclub.com/01a17623-5880-7793-90fe-403b8bebfd88/image.png)
+![Main Frame Rod](https://cdn.hackclub.com/01a17623-5880-7793-90fe-403b8bebfd88/image.png)
 
 ### Corner Part V2
 
 The corner part is used to connect the frame at a 90-degree turn. I made an improved version of the original part with a more polished design.
 
-[Corner Part V2](https://cdn.hackclub.com/01a17637-88b4-7e49-bb97-72e0dce8ef24/image.png)
+![Corner Part V2](https://cdn.hackclub.com/01a17637-88b4-7e49-bb97-72e0dce8ef24/image.png)
 
 ### Middle Connector 1
 
 The middle connector is used to join parts around the middle of the frame. It is part of the chassis connection system.
 
-[Middle Connector 1](https://cdn.hackclub.com/01a17636-6e62-72fc-bdf5-f4a9de60d54f/image.png)
+![Middle Connector 1](https://cdn.hackclub.com/01a17636-6e62-72fc-bdf5-f4a9de60d54f/image.png)
 
 ### Chassis Assembly
 
 The chassis is made by joining the frame rods, corner parts, and connectors together. I started by building one side and then used the mirror tool to make the other side. I also began adding parts across the middle and vertical rods for the seat support.
 
-[Chassis Assembly](https://cdn.hackclub.com/01a1763f-3879-7965-aab2-b430f400a4c6/screenshot_2026-10-26_085158.png)
+![Chassis Assembly](https://cdn.hackclub.com/01a1763f-3879-7965-aab2-b430f400a4c6/screenshot_2026-10-26_085158.png)
 
 ## Main Parts
 
